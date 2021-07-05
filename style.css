@@ -9,7 +9,11 @@ image {
 }
 
 div {
-    background-color: whitesmoke;
+    background-color: turquoise;
+}
+
+website {
+    font-family: monospace;
 }
 
 @import url(https://fonts.googleapis.com/css?family=Nobile:400italic,700italic);
